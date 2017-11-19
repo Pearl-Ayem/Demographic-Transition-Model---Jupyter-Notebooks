@@ -368,11 +368,4 @@ summary()
 
 main("CPSC-project.csv")
 
-
-
-
-# In[2]:
-
-
-parse_float("30,000.24")
-
+![DTM output](https://user-images.githubusercontent.com/29269545/32996367-9a3d69a4-cd36-11e7-85b2-b269e27bb588.png)
